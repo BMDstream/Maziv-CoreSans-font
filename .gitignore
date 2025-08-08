@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db
